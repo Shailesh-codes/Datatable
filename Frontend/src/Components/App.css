@@ -1,0 +1,48 @@
+.container {
+  padding: 50px 10px;
+}
+
+.container #edit {
+  background-color: aqua;
+}
+.container #delete {
+  background-color: red;
+  color: white;
+}
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 100%;
+  text-align: center;
+}
+
+table tr {
+  border-bottom: 1px solid black;
+  background-color: rgb(157, 11, 157);
+  color: aliceblue;
+}
+table tr th,
+table tr td {
+  padding: 5px;
+}
+
+.form-div {
+  margin-bottom: 10px;
+}
+
+.form-div form input {
+  width: 43.5%;
+  padding: 5px;
+  border-style: double;
+  margin-right: 2px;
+  text-align: center;
+}
+
+.form-div form button {
+  width: 10%;
+  padding: 5px;
+  cursor: pointer;
+  background-color: rgb(86, 186, 225);
+  color: aliceblue;
+}

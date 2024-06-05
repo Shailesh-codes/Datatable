@@ -1,0 +1,172 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Shailesh Bhosale",
+      "username": "shaileshbhosale",
+      "email": "shaileshb517@gmail.com",
+      "phone": "98829-29928",
+      "website": "shailesh1131.com"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "email": "janesmith@example.com",
+      "phone": "234-567-8901",
+      "website": "janesmith.com"
+    },
+    {
+      "id": "3",
+      "name": "Michael Brown",
+      "username": "michaelbrown",
+      "email": "michaelbrown@example.com",
+      "phone": "345-678-9012",
+      "website": "michaelbrown.com"
+    },
+    {
+      "id": "4",
+      "name": "Emily Davis",
+      "username": "emilydavis",
+      "email": "emilydavis@example.com",
+      "phone": "456-789-0123",
+      "website": "emilydavis.com"
+    },
+    {
+      "id": "5",
+      "name": "David Wilson",
+      "username": "davidwilson",
+      "email": "davidwilson@example.com",
+      "phone": "567-890-1234",
+      "website": "davidwilson.com"
+    },
+    {
+      "id": "6",
+      "name": "Emma Johnson",
+      "username": "emmajohnson",
+      "email": "emmajohnson@example.com",
+      "phone": "678-901-2345",
+      "website": "emmajohnson.com"
+    },
+    {
+      "id": "7",
+      "name": "James Williams",
+      "username": "jameswilliams",
+      "email": "jameswilliams@example.com",
+      "phone": "789-012-3456",
+      "website": "jameswilliams.com"
+    },
+    {
+      "id": "8",
+      "name": "Olivia Miller",
+      "username": "oliviamiller",
+      "email": "oliviamiller@example.com",
+      "phone": "890-123-4567",
+      "website": "oliviamiller.com"
+    },
+    {
+      "id": "9",
+      "name": "Lucas Martinez",
+      "username": "lucasmartinez",
+      "email": "lucasmartinez@example.com",
+      "phone": "901-234-5678",
+      "website": "lucasmartinez.com"
+    },
+    {
+      "id": "10",
+      "name": "Sophia Anderson",
+      "username": "sophiaanderson",
+      "email": "sophiaanderson@example.com",
+      "phone": "012-345-6789",
+      "website": "sophiaanderson.com"
+    },
+    {
+      "id": "11",
+      "name": "Benjamin Thomas",
+      "username": "benjaminthomas",
+      "email": "benjaminthomas@example.com",
+      "phone": "123-456-7891",
+      "website": "benjaminthomas.com"
+    },
+    {
+      "id": "12",
+      "name": "Charlotte Jackson",
+      "username": "charlottejackson",
+      "email": "charlottejackson@example.com",
+      "phone": "234-567-8902",
+      "website": "charlottejackson.com"
+    },
+    {
+      "id": "13",
+      "name": "Henry White",
+      "username": "henrywhite",
+      "email": "henrywhite@example.com",
+      "phone": "345-678-9013",
+      "website": "henrywhite.com"
+    },
+    {
+      "id": "14",
+      "name": "Amelia Harris",
+      "username": "ameliaharris",
+      "email": "ameliaharris@example.com",
+      "phone": "456-789-0124",
+      "website": "ameliaharris.com"
+    },
+    {
+      "id": "15",
+      "name": "Alexander Martin",
+      "username": "alexandermartin",
+      "email": "alexandermartin@example.com",
+      "phone": "567-890-1235",
+      "website": "alexandermartin.com"
+    },
+    {
+      "id": "16",
+      "name": "Mia Garcia",
+      "username": "miagarcia",
+      "email": "miagarcia@example.com",
+      "phone": "678-901-2346",
+      "website": "miagarcia.com"
+    },
+    {
+      "id": "17",
+      "name": "William Lee",
+      "username": "williamlee",
+      "email": "williamlee@example.com",
+      "phone": "789-012-3457",
+      "website": "williamlee.com"
+    },
+    {
+      "id": "18",
+      "name": "Harper Gonzalez",
+      "username": "harpergonzalez",
+      "email": "harpergonzalez@example.com",
+      "phone": "890-123-4568",
+      "website": "harpergonzalez.com"
+    },
+    {
+      "id": "19",
+      "name": "Evelyn Clark",
+      "username": "evelynclark",
+      "email": "evelynclark@example.com",
+      "phone": "901-234-5679",
+      "website": "evelynclark.com"
+    },
+    {
+      "id": "20",
+      "name": "Daniel Lewis",
+      "username": "daniellenwis",
+      "email": "daniellenwis@example.com",
+      "phone": "012-345-6790",
+      "website": "daniellenwis.com"
+    },
+    {
+      "id": "21",
+      "name": "Isabella Walker",
+      "username": "isabellawalker",
+      "email": "isabellawalker@example.com",
+      "phone": "123-456-7892",
+      "website": "isabellawalker.com"
+    }
+  ]
+}
